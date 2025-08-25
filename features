@@ -1,0 +1,2 @@
+style={{width:"100%", display:"flex", justifyContent:"center", alignItems:"center", minHeight:"100vh"}}
+style={{backgroundColor:'#EEEEEE', width:'70%', padding:"20px", marginTop:"-18%"}}
