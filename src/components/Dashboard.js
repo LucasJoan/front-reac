@@ -20,6 +20,8 @@ function Dashboard() {
                         <p>Votre ID : {userId}</p>
                     <button onClick={() => navigate("/profile")} className='btn btn-info'>Go to About Page</button>
                 </div>
+
+                <h1>Hello git hun</h1>
         </>
     );
 
